@@ -1,65 +1,48 @@
-<div align="center">
+<h1 align="center">Himanshu Pandey</h1>
 
-# Himanshu Pandey
+<p align="center">
+Frontend Engineer focused on building fast, scalable and user-friendly web applications.
+</p>
 
-Frontend Engineer • React Developer • Building Modern Web Experiences
+<br>
 
-</div>
+## Selected Work
 
----
+🗺️ Mapping Platform  
+Built interactive maps with routing, POI search and location intelligence using React and Leaflet.
 
-### About
+⚡ Enterprise Healthcare Portal  
+Developed reusable UI components, forms and workflows used by healthcare professionals.
 
-Frontend developer with experience building scalable React applications,
-enterprise dashboards, reusable component libraries and interactive mapping solutions.
+💪 Gym Management System  
+Full-stack application with authentication, dashboards and member management.
 
-Focused on performance, clean architecture and great user experience.
+<br>
 
----
-
-### Tech Stack
+## Stack
 
 React • TypeScript • JavaScript • Redux
 
-HTML • CSS • Bootstrap • Tailwind
-
 Node.js • Express • MongoDB
 
-Git • GitHub • Azure DevOps
+Bootstrap • Tailwind CSS
 
----
+Git • Azure DevOps
 
-### Current Focus
+<br>
 
-- Building React applications
-- Improving frontend architecture
-- Learning advanced system design
-- Exploring full-stack development
+## Philosophy
 
----
+I enjoy building products that solve real problems rather than creating tutorial projects.
 
-### Featured Projects
+<br>
 
-#### Interactive Mapping Platform
-Location search, routing, POI discovery and map visualization.
+## Current Focus
 
-#### MERN Gym Management System
-Authentication, dashboard, user management and analytics.
+→ Advanced React Patterns
 
-#### React Component Library
-Reusable enterprise-grade UI components.
+→ Frontend Architecture
 
-#### Admin Dashboard
-Data visualization, reporting and workflow management.
+→ System Design
 
----
-
-### GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=himanshpande&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshpande&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-> Building products, not just projects.
+→ Performance Optimization
