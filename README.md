@@ -1,48 +1,88 @@
-<h1 align="center">Himanshu Pandey</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Pandey</h1>
+
+<h3 align="center">React Developer | Frontend Developer | MERN Learner 🚀</h3>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=React+Developer;Frontend+Developer;MERN+Stack+Learner;Building+Awesome+Web+Apps" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Associate Software Engineer
+- ⚛️ React.js Developer
+- 🌱 Learning MERN Stack
+- 🔥 Passionate about Frontend Development
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-Frontend Engineer focused on building fast, scalable and user-friendly web applications.
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,nodejs,express,mongodb,git,github,vscode" />
+
 </p>
 
-<br>
+---
 
-## Selected Work
+## 📊 GitHub Stats
 
-🗺️ Mapping Platform  
-Built interactive maps with routing, POI search and location intelligence using React and Leaflet.
+<p align="center">
 
-⚡ Enterprise Healthcare Portal  
-Developed reusable UI components, forms and workflows used by healthcare professionals.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-💪 Gym Management System  
-Full-stack application with authentication, dashboards and member management.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-<br>
+</p>
 
-## Stack
+---
 
-React • TypeScript • JavaScript • Redux
+## 🔥 GitHub Streak
 
-Node.js • Express • MongoDB
+<p align="center">
 
-Bootstrap • Tailwind CSS
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
-Git • Azure DevOps
+</p>
 
-<br>
+---
 
-## Philosophy
+## 🚀 Featured Projects
 
-I enjoy building products that solve real problems rather than creating tutorial projects.
+### 🗺️ Leaflet Mapping Application
+Interactive Map with Routing and POI Search
 
-<br>
+### 💪 MERN Gym Management App
+Full Stack Authentication & Dashboard
 
-## Current Focus
+### 🎨 React UI Components Library
+Reusable Frontend Components
 
-→ Advanced React Patterns
+---
 
-→ Frontend Architecture
+## 🌐 Connect With Me
 
-→ System Design
+<p align="center">
 
-→ Performance Optimization
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+
+</div>
